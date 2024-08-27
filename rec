@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Os Principais Comandos para Criar um Site</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Os Principais Comandos para Criar um Site</h1>
+        <h2>Introdução aos Comandos</h2>
+    </header>
+    <main>
+        <section>
+            <h3>Comando HTML: `<html>`</h3>
+            <p>O comando `<html>` define o início e o fim de um documento HTML. Todos os outros comandos HTML devem estar dentro das tags `<html>` e `</html>`.</p>
+            <img src="caminho-para-imagem-html.jpg" alt="Comando HTML" />
+        </section>
+        <section>
+            <h3>Comando HTML: `<head>`</h3>
+            <p>O comando `<head>` contém meta-informações sobre o documento HTML, como o título da página e links para arquivos de estilo e scripts.</p>
+            <img src="caminho-para-imagem-head.jpg" alt="Comando Head" />
+        </section>
+        <section>
+            <h3>Comando CSS: `font-family`</h3>
+            <p>O comando `font-family` no CSS é usado para definir a fonte do texto em um elemento HTML. Você pode especificar uma fonte ou uma lista de fontes.</p>
+            <img src="caminho-para-imagem-font-family.jpg" alt="Comando Font-Family" />
+        </section>
+    </main>
+    <footer>
+        <p>Site criado para fins educacionais. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
